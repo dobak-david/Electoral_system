@@ -1,0 +1,105 @@
+{
+    "63bee9d6c0319": {
+        "question": "Szereted a tejet?",
+        "options": [
+            "Igen",
+            "Nem",
+            "Nem tudom"
+        ],
+        "isMultiple": true,
+        "createdAt": "2023-01-11 17:54:46",
+        "deadline": "2023-01-13",
+        "answers": {
+            "Igen": 1,
+            "Nem": 0,
+            "Nem tudom": 0
+        },
+        "voted": [
+            "63beea7662412"
+        ],
+        "id": "63bee9d6c0319"
+    },
+    "63bee9fddb22f": {
+        "id": "63bee9fddb22f",
+        "question": "Mekkora negat\u00edv h\u0151m\u00e9rs\u00e9klet legyen az \u00e9p\u00fcletben?",
+        "options": [
+            "-18\u00b0",
+            "19\u00b0",
+            "-2\u00b0",
+            "21\u00b0",
+            "22\u00b0"
+        ],
+        "isMultiple": false,
+        "createdAt": "2023-01-09 17:55:25",
+        "deadline": "2023-01-10",
+        "answers": {
+            "-18\u00b0": 0,
+            "19\u00b0": 0,
+            "-2\u00b0": 1,
+            "21\u00b0": 0,
+            "22\u00b0": 0
+        },
+        "voted": [
+            "63b1a09db2d9c"
+        ]
+    },
+    "63bfc83d832f4": {
+        "question": "Legyen 3 evente vb?",
+        "options": [
+            "Nem tenne j\u00f3t",
+            "Idei is unalmas volt",
+            "Legyen",
+            "Ne legyen"
+        ],
+        "isMultiple": false,
+        "createdAt": "2023-01-12 09:43:41",
+        "deadline": "2023-01-13",
+        "answers": {
+            "Nem tenne j\u00f3t": 0,
+            "Idei is unalmas volt": 0,
+            "Legyen": 0,
+            "Ne legyen": 0
+        },
+        "voted": [],
+        "id": "63bfc83d832f4"
+    },
+    "63bfc8638f631": {
+        "id": "63bfc8638f631",
+        "question": "Mik legyenek a pottyosben?",
+        "options": [
+            "Tea",
+            "Kave",
+            "Kakao",
+            "Turosrudi"
+        ],
+        "isMultiple": true,
+        "createdAt": "2023-01-12 09:44:19",
+        "deadline": "2023-01-12",
+        "answers": {
+            "Tea": 0,
+            "Kave": 0,
+            "Kakao": 0,
+            "Turosrudi": 0
+        },
+        "voted": []
+    },
+    "645151c958a20": {
+        "question": "melege az elod?",
+        "options": [
+            "igen",
+            "nem",
+            "igen"
+        ],
+        "isMultiple": true,
+        "createdAt": "2023-05-02 20:09:13",
+        "deadline": "2023-05-04",
+        "answers": {
+            "igen": 2,
+            "nem": 0
+        },
+        "voted": [
+            "63b1a09db2d9c"
+        ],
+        "id": "645151c958a20"
+    }
+}

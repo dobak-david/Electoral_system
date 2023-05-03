@@ -1,0 +1,175 @@
+html,
+body {
+  margin: 0px;
+  margin-top: -11px;
+  background-color: antiquewhite;
+  height: 100%;
+}
+
+.card-href {
+  text-decoration: none;
+  color: black;
+}
+
+.card {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  background-color: white;
+  transition: 0.3s;
+  margin: auto;
+  min-width: 250px;
+  max-width: 500px;
+  margin-bottom: 3%;
+  padding-bottom: 15px;
+}
+
+#expiredPolls {
+  padding-bottom: 8px;
+}
+
+.card:hover {
+  box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
+}
+
+.card-container {
+  margin: auto;
+  padding: 10px;
+}
+
+ul {
+  list-style-type: none;
+  padding: 5px;
+}
+
+li {
+  margin-bottom: 20px;
+}
+
+img {
+  max-width: 10px;
+}
+
+.main {
+  margin: auto;
+  margin-left: 10%;
+}
+
+.actions {
+  padding-left: 1%;
+  float: left;
+  width: 20%;
+  height: 100vh;
+  background-color: rgb(206, 206, 206);
+  position: fixed;
+
+}
+
+.intro {
+  width: 70%;
+  margin: auto;
+}
+
+h1 {
+  text-align: center;
+}
+
+hr {
+  width: 60%;
+}
+
+label {
+  color: gray;
+  font-weight: 600;
+}
+
+.container {
+  padding: 6px 8px;
+}
+
+.expired {
+  background-color: #1900ff;
+  color: white;
+}
+
+.loginForm,
+.addPollForm,
+.voteDiv,
+.addNewGroupForm {
+  margin: auto;
+  background-color: white;
+  width: 300px;
+  border: #149bf3 solid 1px;
+  border-radius: 20px;
+  padding: 20px 20px 40px 20px;
+}
+
+.button-edit {
+  color: white;
+  font-weight: 600;
+  text-decoration: none;
+  padding: 5px;
+  border-radius: 8px;
+  background-color: rgb(168, 168, 168);
+}
+
+.button-edit:hover {
+  background-color: rgb(119, 119, 119);
+}
+
+.button-vote {
+  color: white;
+  font-weight: 600;
+  text-decoration: none;
+  padding: 5px;
+  border-radius: 8px;
+  background-color: rgb(0, 92, 0);
+}
+
+.button-vote:hover {
+  background-color: rgb(0, 64, 0);
+}
+
+.button-delete {
+  color: white;
+  font-weight: 600;
+  text-decoration: none;
+  padding: 5px;
+  border-radius: 8px;
+  background-color: rgb(162, 0, 0);
+}
+
+.button-delete:hover {
+  background-color: rgb(121, 0, 0);
+}
+
+.button {
+  color: white;
+  font-weight: 600;
+  text-decoration: none;
+  padding: 5px;
+  border-radius: 8px;
+  background-color: rgb(74, 155, 255);
+}
+
+@media only screen and (max-width: 1000px) {
+  li {
+    display: inline;
+  }
+
+  .actions {
+    padding-top: 3%;
+    float: left;
+    width: 100%;
+    height: auto;
+    position: static;
+  }
+
+  .main {
+    overflow: hidden;
+    width: 100%;
+    margin-left: 0px;
+  }
+
+  .intro {
+    width: 90%;
+  }
+}

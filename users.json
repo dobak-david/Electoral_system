@@ -1,0 +1,78 @@
+{
+    "63b1a09db2d9c": {
+        "username": "admin",
+        "email": "admin@gmail.com",
+        "password": "$2y$10$BgPWxuCvd\/CwoQRAFNvKXuIA5fqWJpoWntgr\/uVZ5mKo118OJTkyi",
+        "isAdmin": true,
+        "votes": {
+            "63bee9fddb22f": [
+                "-2\u00b0"
+            ],
+            "645151c958a20": [
+                "igen",
+                "igen"
+            ]
+        },
+        "id": "63b1a09db2d9c"
+    },
+    "63b5db9c824eb": {
+        "username": "elemerr",
+        "email": "elemerr@gmail.com",
+        "password": "$2y$10$V\/Rg.FqT32d1Dt.LTd.8jeStr4NQSX4OqfI1RG2pitnk7tNlSpcLa",
+        "isAdmin": false,
+        "votes": [],
+        "id": "63b5db9c824eb"
+    },
+    "63bd678366700": {
+        "username": "uj felhasznalo",
+        "email": "ujfelhasznalo@gmail.com",
+        "password": "$2y$10$tB1ihNgGqn8x.bMuZNS9P.USTUPIq.H5.8HpTnG4P5s2cKzCoSbNC",
+        "isAdmin": false,
+        "votes": [],
+        "id": "63bd678366700"
+    },
+    "63bdd903592a2": {
+        "username": "dobivati",
+        "email": "kamu@kamu.com",
+        "password": "$2y$10$YCNmxA9NlV7yUhsw6Iyx6uM9tXI08NIDtPsIO8M8myeCE7K0XzsLi",
+        "isAdmin": false,
+        "votes": [],
+        "id": "63bdd903592a2"
+    },
+    "63be7ec0d6fa5": {
+        "username": "sssssssssss",
+        "email": "sdds@gmail.com",
+        "password": "$2y$10$0TSU\/dV6pJtawa4TOy4HtuDikeJ.Q2fn2Rp2OQ23ClchjUhf8541S",
+        "isAdmin": false,
+        "votes": [],
+        "id": "63be7ec0d6fa5"
+    },
+    "63be927d391af": {
+        "username": "bbbbbbbbbbbb",
+        "email": "bnbn@vmi.com",
+        "password": "$2y$10$HqxvVs0vaOAri4ulZJgBNOCPQOM2MFQLrh5LaOFrzgllo0e\/xwoRm",
+        "isAdmin": false,
+        "votes": [],
+        "id": "63be927d391af"
+    },
+    "63beea7662412": {
+        "username": "anya",
+        "email": "anya@gmail.com",
+        "password": "$2y$10$EhcCl4ikTt2RzKtBAvM0xeAjfNyQzwjxlIh6OTMyGFDKmztMCuA46",
+        "isAdmin": false,
+        "votes": {
+            "63bee9d6c0319": [
+                "Igen"
+            ]
+        },
+        "id": "63beea7662412"
+    },
+    "64515201b2cda": {
+        "username": "aaaaaa",
+        "email": "apa@gmail.com",
+        "password": "$2y$10$oqNsr6sWbXGmij1yT\/9lp.HmzpynAe3jYaPkf9jyrm5GXuq8cJqxG",
+        "isAdmin": false,
+        "votes": [],
+        "id": "64515201b2cda"
+    }
+}
